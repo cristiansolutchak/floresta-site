@@ -361,18 +361,11 @@ Describe how to test your changes
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with [Next.js](https://nextjs.org/)
 - Styled with [Tailwind CSS](https://tailwindcss.com/)
 - Markdown processing with [gray-matter](https://github.com/jonschlinkert/gray-matter) and [react-markdown](https://github.com/remarkjs/react-markdown)
 
-## 📞 Contact
-
-- **Website**: [floresta.io](#)
-- **GitHub**: [github.com/YOUR_ORG/floresta](https://github.com/vinteumorg/Floresta)
-- **Twitter**: [@floresta_btc](#)
-
----
 
 Made with ❤️ by the Floresta community
