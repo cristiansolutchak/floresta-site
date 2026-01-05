@@ -79,7 +79,7 @@ export function Footer() {
                         {/* License & Documentation Links Section */}
                         <div>
                             <h3 className="text-sm font-semibold text-foreground mb-4">
-                                License
+                                Project
                             </h3>
                             <ul className="space-y-3">
                                 {footerLinks.license.map((link) => (
