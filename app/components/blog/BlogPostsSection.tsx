@@ -28,7 +28,7 @@ export function BlogPostsSection() {
                         title="No publications yet"
                         description="Be the first to contribute! Check out our"
                         linkText="contribution guide"
-                        linkUrl="#"
+                        linkUrl="https://github.com/cristiansolutchak/floresta-site/blob/main/CONTRIBUTING_BLOG.md"
                     />
                 ) : (
                     /* Render all blog posts */
