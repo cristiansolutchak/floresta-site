@@ -13,6 +13,7 @@
 
 import Image from "next/image";
 import { Button } from "../shared/Button";
+import { heroLinks } from "@/data/navigation";
 
 export function HeroSection() {
     return (
@@ -53,10 +54,10 @@ export function HeroSection() {
 
                     <div className="flex flex-wrap justify-center gap-4">
                         {/* Call-to-action buttons */}
-                        <Button variant="secondary">
+                        <Button variant="secondary" href={heroLinks.readTheDocs}>
                             Read the Docs
                         </Button>
-                        <Button variant="secondary">
+                        <Button variant="secondary" href={heroLinks.contribute}>
                             Contribute
                         </Button>
                     </div>
