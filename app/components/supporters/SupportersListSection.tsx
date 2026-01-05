@@ -39,7 +39,7 @@ export function SupportersListSection() {
                         title="No supporters yet"
                         description="Be the first to support Floresta! Check out our"
                         linkText="support information"
-                    linkUrl="#"
+                        linkUrl="https://github.com/cristiansolutchak/floresta-site/blob/main/CONTRIBUTING.md"
                     />
                 ) : (
                     <div className="space-y-16">
