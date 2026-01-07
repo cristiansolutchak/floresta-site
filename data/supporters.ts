@@ -42,6 +42,21 @@ export interface YearSupporters {
 
 export const supportersData: YearSupporters[] = [
     {
+        year: "2026",
+        supporters: [
+            {
+                name: "Vinteum",
+                logo: "vinteum.svg",
+                url: "https://vinteum.org"
+            },
+            {
+                name: "OpenSats",
+                logo: "opensats.svg",
+                url: "https://opensats.org"
+            }
+        ]
+    },
+    {
         year: "2025",
         supporters: [
             {
