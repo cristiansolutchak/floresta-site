@@ -26,8 +26,9 @@ interface SocialLinks {
     github?: string;    // GitHub profile URL (optional)
     email?: string;     // Email address (optional)
     discord?: string;   // Discord username (optional)
-    nostr?: string;   // Discord username (optional)
+    nostr?: string;     // Discord username (optional)
     blog?: string;      // Blog/website URL (optional)
+    keybase?: string;   // Keybase.io URL
 }
 
 interface TeamMemberProps {
@@ -47,6 +48,7 @@ export function TeamMemberCard({ name, description, socialLinks }: TeamMemberPro
         { key: 'discord', icon: '/images/icons/team/discord.svg', url: socialLinks?.discord },
         { key: 'nostr', icon: '/images/icons/team/nostr.svg', url: socialLinks?.nostr },
         { key: 'blog', icon: '/images/icons/team/blog.svg', url: socialLinks?.blog },
+        { key: 'keybase', icon: '/images/icons/team/keybase.svg', url: socialLinks?.keybase }
     ];
 
     return (

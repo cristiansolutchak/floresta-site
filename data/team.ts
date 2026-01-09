@@ -33,6 +33,7 @@ export interface SocialLinks {
     discord?: string;
     nostr?: string;
     blog?: string;
+    keybase?: string;
 }
 
 export interface TeamMember {
@@ -80,11 +81,14 @@ export const teamMembers: TeamMember[] = [
         }
     },
     {
-        name: "Qlrd",
-        description: "",
+        name: "qlrd",
+        description: "Floresta and Krux developer. Art teacher. Code Bitcoin as if it were big, eternal music for world change.",
         socialLinks: {
             github: "https://github.com/qlrd",
             x: "https://x.com/qlrddev",
+            email: "mailto:qlrddev@proton.me",
+            nostr: "https://njump.me/npub1kyglvayh649etnjf2jznlynsrx0uz63vaehuc2pjhwdtj9vph88qyvph68",
+            keybase: "https://keybase.io/qlrd"
         }
     },
     {
