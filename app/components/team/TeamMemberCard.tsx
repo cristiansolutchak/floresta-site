@@ -26,7 +26,7 @@ interface SocialLinks {
     github?: string;    // GitHub profile URL (optional)
     email?: string;     // Email address (optional)
     discord?: string;   // Discord username (optional)
-    nostr?: string;     // Discord username (optional)
+    nostr?: string;     // Nostr public key (optional)
     blog?: string;      // Blog/website URL (optional)
     keybase?: string;   // Keybase.io URL
 }
