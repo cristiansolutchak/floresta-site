@@ -55,15 +55,6 @@ export const teamMembers: TeamMember[] = [
         }
     },
     {
-        name: "Moises Pompilio",
-        description: "I'm a software developer since 2022, passionate about Bitcoin and open source projects. Since 2025, I've been working full-time on Bitcoin projects, L2 solutions, and nodes. I really enjoy following technical discussions on the subject and watching new technologies and solutions emerge in the ecosystem. I really enjoy writing code in Rust.",
-        socialLinks: {
-            github: "https://github.com/moisesPompilio",
-            x: "https://x.com/maicomjt",
-            email: "mailto:moisesalexandrep.c@gmail.com",
-        }
-    },
-    {
         name: "João Leal",
         description: "BOSS developer mentored by Vinteum.",
         socialLinks: {
@@ -81,6 +72,23 @@ export const teamMembers: TeamMember[] = [
         }
     },
     {
+        name: "Luis Schwab",
+        description: "",
+        socialLinks: {
+            github: "https://github.com/luisschwab",
+            blog: "https://luisschwab.net/",
+        }
+    },
+    {
+        name: "Moises Pompilio",
+        description: "I'm a software developer since 2022, passionate about Bitcoin and open source projects. Since 2025, I've been working full-time on Bitcoin projects, L2 solutions, and nodes. I really enjoy following technical discussions on the subject and watching new technologies and solutions emerge in the ecosystem. I really enjoy writing code in Rust.",
+        socialLinks: {
+            github: "https://github.com/moisesPompilio",
+            x: "https://x.com/maicomjt",
+            email: "mailto:moisesalexandrep.c@gmail.com",
+        }
+    },
+    {
         name: "qlrd",
         description: "Floresta and Krux developer. Art teacher. Code Bitcoin as if it were big, eternal music for world change.",
         socialLinks: {
@@ -89,14 +97,6 @@ export const teamMembers: TeamMember[] = [
             email: "mailto:qlrddev@proton.me",
             nostr: "https://njump.me/npub1kyglvayh649etnjf2jznlynsrx0uz63vaehuc2pjhwdtj9vph88qyvph68",
             keybase: "https://keybase.io/qlrd"
-        }
-    },
-    {
-        name: "Luis Schwab",
-        description: "",
-        socialLinks: {
-            github: "https://github.com/luisschwab",
-            blog: "https://luisschwab.net/",
         }
     },
 ];
