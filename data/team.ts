@@ -73,10 +73,13 @@ export const teamMembers: TeamMember[] = [
     },
     {
         name: "Luis Schwab",
-        description: "",
+        description: "BitcoinDevKit grantee working on a new chain-source crate for BDK using Floresta, enabling a trustless and sovereign drop-in replacement for wallets that use untrusted third-party API synching methods, such as Electrum and Esplora. This way, all validation and wallet update logic happen on the same device. Zero API calls means increased privacy for the user.",
         socialLinks: {
             github: "https://github.com/luisschwab",
             blog: "https://luisschwab.net/",
+            x: "https://x.com/luisschwab_",
+            email: "mailto:luisschwab@protonmail.com",
+            nostr: "https://njump.me/npub1d2x9c0e5gwwg6ask88c87y4v425fh4wz3hwhskvcwzpzdn7dzg5sl4eu8n"
         }
     },
     {
